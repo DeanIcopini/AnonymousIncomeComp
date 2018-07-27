@@ -1,0 +1,7 @@
+C:\Users\Dean\Code_Vault\C_Sharp\AnonymousIncomeComp\AnonymousIncomeComp\bin\Debug\AnonymousIncomeComp.exe.config
+C:\Users\Dean\Code_Vault\C_Sharp\AnonymousIncomeComp\AnonymousIncomeComp\bin\Debug\AnonymousIncomeComp.exe
+C:\Users\Dean\Code_Vault\C_Sharp\AnonymousIncomeComp\AnonymousIncomeComp\bin\Debug\AnonymousIncomeComp.pdb
+C:\Users\Dean\Code_Vault\C_Sharp\AnonymousIncomeComp\AnonymousIncomeComp\obj\Debug\AnonymousIncomeComp.csprojAssemblyReference.cache
+C:\Users\Dean\Code_Vault\C_Sharp\AnonymousIncomeComp\AnonymousIncomeComp\obj\Debug\AnonymousIncomeComp.csproj.CoreCompileInputs.cache
+C:\Users\Dean\Code_Vault\C_Sharp\AnonymousIncomeComp\AnonymousIncomeComp\obj\Debug\AnonymousIncomeComp.exe
+C:\Users\Dean\Code_Vault\C_Sharp\AnonymousIncomeComp\AnonymousIncomeComp\obj\Debug\AnonymousIncomeComp.pdb
